@@ -1,0 +1,10 @@
+
+(fp_lib_table
+  (lib
+    (name CSI2USB)
+    (type KiCad)
+    (uri ${KIPRJMOD}/footprints.pretty)
+    (options "")
+    (descr "")
+  )
+)

@@ -1,0 +1,10 @@
+
+(sym_lib_table
+  (lib
+    (name CSI2USB)
+    (type Legacy)
+    (uri ${KIPRJMOD}/CSI2USB.lib)
+    (options "")
+    (descr "")
+  )
+)
